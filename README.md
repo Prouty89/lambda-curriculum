@@ -2994,3 +2994,88 @@ Sprint Challenge: [Sprint-Challenge--]()
 
 </details>
 
+## Week 28 - CS24 - WK3 Data Structures
+
+<details><summary>click to open</summary>
+
+#### Day 1 (Mon Dec 16): Linked Lists
+
+Project: [Data Structures](https://github.com/LambdaSchool/data-structures)
+
+
+
+| Topic    | Lecture       |
+| -------- | ------------- |
+| Linked Lists | [🎥](https://www.youtube.com/watch?v=psW8EXiSgPo&feature=youtu.be) |
+
+Objective challenge:  
+
+Draw/model out inserting a new element into a linked list with only one element.  
+
+
+Draw/model out how to traverse through a linked list in order to find a target value.  
+
+
+Draw/model out how to traverse through a linked list in order to find the maximum value in the linked list.
+
+Helpful Resources & Links
+
+- Python:
+
+  - [📖 Link](Link)
+ 
+
+#### Day 2 (Tue Dec 17): Queues and Stacks
+
+Project [Data Structures](https://github.com/LambdaSchool/data-structures)
+
+| Topic | Lecture    | Code       |
+| ----- | ---------- | ---------- |
+| Queues  | [🎥](https://youtu.be/bcwrpBpa_DI) | [⚙️][] |
+
+Helpful Resources & Links
+
+- Python:  
+
+Objective challenge:  
+
+Draw/model out enqueuing into a queue that uses a linked list as its underlying storage structure.  
+
+
+Draw/model out dequeuing from a queue that uses a linked list as its underlying storage structure.  
+
+
+
+### Day 3 (Wed Dec 18): Binary Search Trees
+
+Project:  [Data Structures](https://github.com/LambdaSchool/data-structures)
+
+| Topic      | Lecture    | Code |
+| ---------- | ---------- | ---- |
+| Binary Search Trees | [🎥](https://youtu.be/Y3Bi81icNUg) | -    |
+
+Objective challenge:  
+
+Given an image represented by an NxN matrix, where each pixel in the image is an integer from 0 to 9, write a function rotate_image that receives a matrix as input and rotates the image by 90 degrees in the counter-clockwise direction.
+
+#### Day 4 (Thur Dec 19): Tree Traversal
+
+Project:  [Tree Traversal]()
+
+| Topic      | Lecture    | Code |
+| ---------- | ---------- | ---- |
+| Tree Traversal | [🎥]() | -    |
+
+Objective challenge:  
+
+On your own, complete several types of traversals
+
+#### Day 5 (Fri Dec 20): Sprint Challenge - Data Structures
+
+Sprint Challenge: [Sprint-Challenge--]()
+
+
+</details>
+
+## Week 29 - CS24 - Unit 1 Build
+

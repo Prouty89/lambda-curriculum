@@ -2419,7 +2419,7 @@ Application: Riders for Life
 Technology: React, Redux, PostgresQL, NodeJS, Express, FrontlineSMS    
 
 Demo: [Riders for Life video Presentation](https://www.youtube.com/watch?v=KM4jNYUOg7Y&t=1s)  
-  
+
 Deployed: https://staging-fe-labs17-safe.herokuapp.com/login
 
 ## Week 18 - Labs 17 - WK1
@@ -2575,8 +2575,6 @@ Helpful Links
 - [color combos | Paletton](https://paletton.com/)
 - [gradients | CSS Gradient](https://cssgradient.io/)
 - [for fun | Hellvetica](https://hellveticafont.com/)
-- [for fun | foundtype](http://foundtype.com/)
-- [Labs UX Design Notion](https://www.notion.so/UX-Design-299caa16d8d948e48bc0f4ed152e9494)
 - [Preping for your first Lambda Therapy Session](https://docs.google.com/document/d/169SPRYJV54qG9NlQ7l6PdjnHXbeHJA8ta33zWHxEHIg/edit?ts=5db0afb5)
 
 #### Day 88 (Wed Nov 6): Labs W2D3
@@ -2816,408 +2814,246 @@ TL Helpful Links
 
 </details>
 
-## Week 18 - Labs 17 - WK1
+## Week 22 - Labs 17 - WK1
 
 <details><summary>click to open</summary>
 
-#### Day 81 (Mon Oct 28): Labs W1D1
+#### Day 81 (Mon Oct 28): Labs W5D1
 
-Student Information:
 
-- [Labs Student Handbook](https://www.notion.so/Lambda-Labs-Student-Handbook-cd09a9c47fd14f36a8b7fec281d871c1)
-- [Labs Rubrics](https://www.notion.so/The-Labs-Rubrics-64eae46cf3ec43b88e1d4c761698a947#fd5aca30706a44e5aa7dcac3abd27ddb)
-- [Labs Leading a Retrospective](https://www.notion.so/Leading-a-Retrospective-d1e17ec7881f47b0afed47c1fefc84a6)
 
-Labs 18 Information:
+#### Day 82 (Tue Oct 29): Labs W5D2
 
-- [Labs 17 Lession Review](https://airtable.com/shrlSkbJhD5OnwfTm)
-- [Labs 17 Project Selection](https://www.notion.so/Labs-17-Projects-Students-33b46129228348a2bdd253a30c7b1f2d)
-- [Labs 17 Google Calendar](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV81cWw1NGdkdTZic2R1ZzBpMDVxNjFjcTYxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- [Labs Career and Professional Development](https://learn.lambdaschool.com/cr/sprint/rec7HWWCFp4WIpVd4)
 
-| Presentations                              | Recording       | Slides         |
-| ------------------------------------------ | --------------- | -------------- |
-| Kickoff w Bernie                           | [🎥][kickoff]   | [📊][kickoffs] |
-| Labs Logistics w Bernie                    | [🎥][labslog]   | [📊][labslogs] |
-| Stakeholder Communication (TLs?) w Jessica | [🎥][stkldcomm] | NA             |
-| Measuring Success w Holdy                  | [🎥][meassucc]  | [📊][meass]    |
-| Intro to Product Teams w Alex              | [🎥][prodteam]  | NA             |
 
-[kickoff]: https://youtu.be/V4k3X6laXuI
-[kickoffs]: https://docs.google.com/presentation/d/15BjHmWX4pOadYq_uYyDm5CdD0hmKVAFXlxpy4VWR_n0/edit
-[labslog]: https://youtu.be/6_DNrO1xJWQ
-[labslogs]: https://docs.google.com/presentation/d/1Oomftn7HOthhE3Wy9-8dapT5affJeAGzngTEZSOSLoQ/edit?usp=sharing
-[stkldcomm]: https://youtu.be/BTT34Ml8fHM
-[meassucc]: https://youtu.be/EQDDo7ZSdzA
-[meass]: https://docs.google.com/presentation/d/1nPH7ebpWKUThul5plV98hf13GOe937thI2M7MPtVl5Y/edit#slide=id.p
-[prodteam]: https://youtu.be/SAYh6EIZi1o
+#### Day 83 (Wed Oct 30): Labs WD3
 
-#### Day 82 (Tue Oct 29): Labs W1D2
 
-| Presentations                       | Recording     | Slides         |
-| ----------------------------------- | ------------- | -------------- |
-| Teamwork and Collaboration w Bernie | [🎥][tmwkcol] | [📊][tmwkcols] |
-| Intro to Product Cycle w Alex       | [🎥][prodcyc] | [📊][prodcycs] |
-| PVD Guided Project w Alex           | [🎥][pvd]     | [📊][pvds]     |
-
-[tmwkcol]: https://youtu.be/PxcIdChpeS8
-[tmwkcols]: TBA
-[prodcyc]: https://youtu.be/EtVwKPaqI34
-[prodcycs]: https://www.notion.so/Introduction-to-Product-Cycles-6fb386f1a5314e9cb45746b776a2d515
-[pvd]: https://youtu.be/FuRQ5lBto9A
-[pvds]: TBA
-
-Guided Project Assignment: [PVD Research Customer Interviewing Assignment](https://www.notion.so/PVD-Guided-Project-3937607f40b44f73b673626106d34b72)
-
-Guided Project Submission Form: [Customer Interview Submission Form](https://airtable.com/shrUJMRzenhZadRVC)
-
-**Prototyping tools**
-
-- Figma
-- Adobe XD
-- Invision
-- InVision Studio
-- Principle
-- Framer.js
-- Zeplin
-- Marvel
-
-Helpful Links:
-
-- [User flow builder | Userflow](https://getuserflow.com/demo)
-- [Forms and Surveys | Typeform](https://www.typeform.com/)
-- [customerdevlabs.com](https://customerdevlabs.com/)
-- [User Testing Feedback | Useberry](https://www.useberry.com/)
-
-#### Day 83 (Wed Oct 30): Labs W1D3
-
-Labs group chosen: **Startup Grant Database**
-
-- Web(no current UX or DS), Lambda Co-op(with stakeholder), Build-On(previous UX)
-- Save entrepreneurs and their mentors time in finding cash grants.
-- [Startup Grant Database Notion PVD](https://www.notion.so/lambdaschool/Startup-Grant-Database-f126d11906074d2d9ec6f77eb6b51363)
-- [Startup Grant Database Video Pitch](https://www.loom.com/share/d6a48bb8df87494a8386a0f4928d0be6)
-- [Stakeholder partner fund site](https://www.1517fund.com)
-- [project existing trello board](https://trello.com/b/T3ej9wIi/starup-grant-db-16)
-- [PVD Meeting Adgenda](https://www.notion.so/Product-Vision-Document-Meeting-Agenda-49dc742c343a4fe4a3a63676ed3b1dd5)
-- [Kicking Off a Co-Op Project in Lambda Labs](https://www.notion.so/Kicking-Off-A-Co-Op-Project-25216a8193bf412e8bc5f0e4e4008ac9)
-- [Stakeholder first meeting recording](https://lambdaschool.zoom.us/recording/play/C271gVtAi95LOcJv8nHOwEUKyzGvopffRaOwjtivfsg9BG4F2iaDRiqEXKEusEzU?continueMode=true)
-- [Grant list Airtable](https://airtable.com/shrBg8fMyUSa7Chod/tblKdJ1l6oCKwwFKy?blocks=hide)
-
-Startup Grant DB inspo sites:
-
-- [niche.com - filtering example](https://www.niche.com/colleges/scholarships/)
-- [Zillow - filtering example](https://www.zillow.com/)
-- [Reddit - Moderator role example](https://www.reddit.com/)
-- [Airtable - table view example](https://airtable.com/shrBg8fMyUSa7Chod/tblKdJ1l6oCKwwFKy?blocks=hide)
-
-Helpful Links:
-
-- [Markdown note taking app | Typora.io](https://typora.io/)
-- [Figma Tips from Lambda UX](https://www.notion.so/Figma-Tips-Tricks-61b8361c23ca48e49dc182d91b909404)
 
 #### Day 84 (Thu Oct 31): Labs W1D4
 
-Halloween half day!
 
-#### Day 85 (Fri Nov 1): Labs W1D5
 
-| Presentation             | Recording | Slides     |
-| ------------------------ | --------- | ---------- |
-| Usability w David Monson | [🎥][usb] | [📊][usbs] |
+#### Day 85 (Fri Nov 1): Labs W5D5
 
-[usb]: https://youtu.be/C8kqpvkPNh8
-[usbs]: TBA
 
-[PVD WK1 Checkin](https://lambdaschool.zoom.us/recording/share/2eNX6xSz7LeztH5T2GLC9Wuzm0gssoc3CXI1RnJlbV2wIumekTziMw?startTime=1572643649000)
+#### Day 87 (Tue Nov 5): Labs W6D2
+
+
+
+#### Day 88 (Wed Nov 6): Labs W6D3
+
+
+
+#### Day 89 (Thu Nov 7): Labs W6D4
+
+
+
+#### Day 90 (Fri Nov 8): Labs W6D5
+
 
 </details>
 
-## Week 19 - Labs 17 - WK6
+## Week 24 - Labs 18 - WK3
 
 <details><summary>click to open</summary>
 
-#### Day 86 (Mon Nov 4): Labs W6D1
+#### Day 91 (Mon Nov 11): Labs W7D1
 
-| Presentation                 | Recording  | Guided release canvas |
-| ---------------------------- | ---------- | --------------------- |
-| Release Canvas w Alex Parker | [🎥][rlsc] | [📊][rlscs]           |
 
-[rlsc]: https://youtu.be/C8kqpvkPNh8
-[rlscs]: https://www.notion.so/Mention-7437dcf59e0049eaad75aae8e0b0fae1
 
-- [Brownbag with Alysa Buchanan on User Testing/UX](https://youtu.be/LMw_iHT7ckI)
+#### Day 92 (Tue Nov 12): Labs W7D2
 
-Helpful Links
 
-- [Experience Management, limit 10 uses? | Qualtrics](https://www.qualtrics.com/)
-- [Survey Software | Survey Monkey](https://www.surveymonkey.com/)
-- [Survey Software | Google Forms](https://docs.google.com/forms/u/0/)
 
-removing node_modules to save space: `find -name node_modules -type d -prune -rm -rf {} \;`
+#### Day 93 (Wed Nov 13): Labs W7D3
 
-#### Day 87 (Tue Nov 5): Labs W2D2
 
-| Presentation                                        | Recording    | Slides      |
-| --------------------------------------------------- | ------------ | ----------- |
-| Collaborating with Git w Bernie Durfee              | [🎥][colgit] | NA          |
-| Refresh (Health, Wellness, burnout) w Elizabeth Lin | [🎥][rfsh]   | [📊][rfshs] |
-| Design Basics w David Monson                        | [🎥][dsnb]   | NA          |
 
-[colgit]: https://youtu.be/Kdaibb4rY2o
-[rfsh]: https://youtu.be/mk8k9qa-uDI
-[rfshs]: https://docs.google.com/presentation/d/1ET1p4dzEB6YLmvIXCB_GqdToITERQDyMDXu7UYdSXUs/edit#slide=id.g5f1c058c42_0_242
-[dsnb]: TBA
+#### Day 94 (Thu Nov 14): Labs W7D4
 
 Helpful Links
 
-- [Image processing Pachyderm Beginner Tutorial](https://docs.pachyderm.com/getting_started/beginner_tutorial)
-- [Automated Kubernetes ML workflow Deployment | Kubeflow](https://www.kubeflow.org/)
-- [Deep Learning Color Generator | Eva Design](https://colors.eva.design/)
-- [Flowcharts, wireframes | Whimsical](https://whimsical.com/)
-- [color theory | colors.co](http://colors.co/)
-- [color pallete | coolers](https://coolors.co/)
-- [color scheme | ColorSpace](https://mycolor.space/)
-- [color combos | Paletton](https://paletton.com/)
-- [gradients | CSS Gradient](https://cssgradient.io/)
-- [for fun | Hellvetica](https://hellveticafont.com/)
-- [for fun | foundtype](http://foundtype.com/)
-- [Labs UX Design Notion](https://www.notion.so/UX-Design-299caa16d8d948e48bc0f4ed152e9494)
-- [Preping for your first Lambda Therapy Session](https://docs.google.com/document/d/169SPRYJV54qG9NlQ7l6PdjnHXbeHJA8ta33zWHxEHIg/edit?ts=5db0afb5)
 
-#### Day 88 (Wed Nov 6): Labs W2D3
 
-| Presentation                       | Recording       | Blog Post       |
-| ---------------------------------- | --------------- | --------------- |
-| Project Management w Bernie Durfee | [🎥][prjmg]     | NA              |
-| Brown Bag with Namrata Ganatra CTO | [🎥][bbnamrata] | [📰][bbnamblog] |
+#### Day 95 (Fri Nov 15): Labs W7D5
 
-[prjmg]: https://youtu.be/s9bAnOuXrpo
-[bbnamrata]: https://youtu.be/4HKmYZZsSKo
-[bbnamblog]: https://lambdaschool.com/the-commons/building-the-tech-career-you-deserve-q-a-with-namrata-ganatra
 
-#### Day 89 (Thu Nov 7): Labs W2D4
-
-| Presentation                    | Recording   |
-| ------------------------------- | ----------- |
-| Peer Reviews with Bernie Durfee | [🎥][prvws] |
-
-[prvws]: https://youtu.be/PCOLLHTD9dQ
-
-Helpful links
-
-- [Gatsby as a Create React App Replacement | Khaled Garbaya 2019](https://youtu.be/kqtlCL6Btqw)
-- [Beyond Static: Building Dynamic Webapps with Gatsby | Dustin Schau 2019](https://youtu.be/zeVC-gD3u7M)
-- [How to Use Material Data Tables on the Web](https://medium.com/google-design/how-to-use-material-data-tables-on-the-web-b12e881119a4)
-
-#### Day 90 (Fri Nov 8): Labs W2D5
-
-| Presentation                           | Recording  | Slides      |
-| -------------------------------------- | ---------- | ----------- |
-| Pairing with Bernie Durfee             | [🎥][prg]  | NA          |
-| DS - Data Mining 101 w Jon-Cody Sokoll | [🎥][dtmn] | [📊][dtmns] |
-
-[prg]: https://youtu.be/rMgaCjtqyf4
-[dtmn]: TBA
-[dtmns]: https://lambdaschoolstudents.slack.com/files/UJ5308HL6/FPYMTQQ6N/datamining101.pdf?origin_team=T4JUEB3ME
 
 </details>
 
-## Week 20 - Labs 18 - WK3
+## Week 25 - Labs 18 - WK8
 
 <details><summary>click to open</summary>
 
-#### Day 91 (Mon Nov 11): Labs W3D1
-
-Helpful Links
-
-- [material-ui table and drawer demo](https://codesandbox.io/s/material-demo-57er5)
-- [Ben's quick guide to connect Heroku and PGadmin4](https://share.vidyard.com/watch/DxFYR1sWWToh3mM1GTHkoW)
-- [Mario's yarn command Node cheatsheet](https://docs.google.com/document/d/1b6Pflz3F98CMElHuIZVAUkqw0S5zmnXfw2USutxXNzE/edit?usp=sharing)
-- [Knex Cheatsheet | Devhints](https://devhints.io/knex)
-
-#### Day 92 (Tue Nov 12): Labs W3D2
-
-Helpful Links
-
-- [Free Auth0 Tutorial - Secure Your ReactJs Applications With Auth0](https://www.udemy.com/share/101EeuCUYZd1dQQ3o=/)
-- [Auth0 React SDK Quickstarts: Login](https://auth0.com/docs/quickstart/spa/react#read-the-user-profile)
-- [Adding Groups, Roles and Permissions to your Auth0 users, for free!](https://medium.com/tojs/adding-groups-roles-and-permissions-to-your-auth0-users-for-free-8fc0562b2205)
-
-brownbag links
-
-- [Brownbag with Samanth Egge](https://www.youtube.com/watch?v=xSN2WhPHE5s&index=3&t=0s)
-- [JX Install PostgreSQL on Win10 with John Mitchell](https://www.youtube.com/watch?v=y1DV86i9vDY)
-- [JX Install PostgreSQL on Mac with John Mitchell](https://www.youtube.com/watch?v=JU7rIkXyQYs)
-
-#### Day 93 (Wed Nov 13): Labs W3D3
-
-| Career Development Presentation          | Recording   | Slides       | Interview Prep Guide |
-| ---------------------------------------- | ----------- | ------------ | -------------------- |
-| Interviewing with Nilza Santana-Castillo | [🎥][cditv] | [📊][cditvs] | [🗺][cditvg]          |
-
-[cditv]: https://youtu.be/VAo5Jlg2yWU
-[cditvs]: https://docs.google.com/presentation/d/1eHFWgdUZRrqJz7-N3Q81OspyCP06VvxPVN-0GU29OdE/edit?usp=sharing
-[cditvg]: https://docs.google.com/presentation/d/1fiGZXNQoZh-UZjIa0m1tnp7gJZ7VXPj2xL9S71_iRIg/edit?usp=sharing
-
-| Presentation                    | Recording   |
-| ------------------------------- | ----------- |
-| User Stories with Bernie Durfee | [🎥][usrst] |
-
-[usrst]: https://youtu.be/s89AO8FDne8
-
-Helpful Links
-
-- [Learn how to handle authentication with Node using Passport.js](https://www.freecodecamp.org/news/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e/)
-
-#### Day 94 (Thu Nov 14): Labs W3D4
-
-Helpful Links
-
-- [Linking User Accounts | Auth0](https://auth0.com/docs/link-accounts)
-
-#### Day 95 (Fri Nov 15): Labs W3D5
-
-Helpful Links
-
-- [Linking User Accounts](https://auth0.com/docs/link-accounts)
-
 </details>
 
-## Week 21 - Labs 18 - WK4
+## Week 26 - CS24 - WK1 Intro to Python and OOP
 
 <details><summary>click to open</summary>
 
-#### Day 96 (Mon Nov 18): Labs W4D1
+#### Day 1 (Mon Dec 2): Introduction to Python I
 
-[Labs Forms and Attendance Policy](https://www.notion.so/Labs-Forms-and-Attendance-Policy-88d923d7589647858d3a4ee283f1f068)
-[TL Training Week LS1912](https://www.notion.so/Team-Lead-TL-Training-LS1912-dae3a518027c4d6f91716e08f8978e13)
-[PT TL Handbook](https://www.notion.so/Part-Time-TL-Handbook-fc34b78b14ef4083b98ee3f1be043b26)
-[TL Training GCal](https://bit.ly/2Zjgp5Y)
-[WEBPT14 GCal](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV9mOXJkbHY0YjNqMjBlb25janFxdmRxYmdub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-[WEBPT14 Culture Doc](https://docs.google.com/document/d/1Ddl6UGbdYn5CyR8VgmSZ0jFi74SzdhukXXkiDVeJA28/edit)
-[New Student Orientation TK](https://learn.lambdaschool.com/ll/sprint/recQf3zxkHFPeRABL)
+Project: [Intro to Python](https://github.com/LambdaSchool/Intro-Python-I)
 
-| TL Training                               | Video         | Assignment     | Extra Resource |
-| ----------------------------------------- | ------------- | -------------- | -------------- |
-| How to Build a Great Team                 | [🎥][tltd1v]  | 3-5 take-aways | [📁][tltd1e]   |
-| Building a Psychologically Safe Workplace | [🎥][tltd1v2] | 3-5 take-aways | NA             |
-| Day 1 Training Lecture                    | [🎥][tltd1l]  | NA             | NA             |
-| Day 1 EoD Stand Up                        | [🎥][tltd1l2] | NA             | NA             |
 
-[tltd1v]: https://www.youtube.com/watch?v=xMMBpRDwp1s
-[tltd1e]: https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/
-[tltd1v2]: https://youtu.be/LhoLuui9gX8
-[tltd1l]: https://youtu.be/Rgv96Pfvi04
-[tltd1l2]: https://youtu.be/wmGD30Jyb-o
 
-[Brown Bag with Alumni Cass and Cam](https://lambdaschool.zoom.us/recording/share/W2f5BlbfbonjW06FOCebNVx26CT1nlgEYjl9zHGDFjmwIumekTziMw)
+| Topic    | Lecture       |
+| -------- | ------------- |
+| Intro to Python I | [🎥](https://youtu.be/J0MNSXOART8) |
 
-Helpful Links
+Utilities:
 
-#### Day 97 (Tue Nov 19): Labs W7D2
+Objective Challenge:
+Can you write the line(s) of code that will…
 
-| Labs Presentation                         | Recording  |
-| ----------------------------------------- | ---------- |
-| Product Quality Assurance w Bernie Durfee | [🎥][lpqa] |
+Create a list of with 10 random numbers between -25 and 25?  
 
-[lpqa]: https://youtu.be/STVhYt6Ddew
+Use the list from question 1 and, utilizing a list comprehension, to create a new list that only contains the negative numbers?  
 
-| Brownbag                                    | Recording    | Code          |
-| ------------------------------------------- | ------------ | ------------- |
-| Cypress Front End Testing w Isaiah Francois | [🎥][bbcfet] | [🐙][bbcfetc] |
+Create a tuples with 3 of your favorite foods, loop through the tuple and print out each item?  
 
-[bbcfet]: https://youtu.be/puggVHfX1b8
-[bbcfetc]: https://github.com/FrancoisCoding/cypress-testing-application
+Create a set of 10 random numbers between 1 and 100, search the set for the value 50 and then print out a statement indicating whether or not the set contains 50?  
 
-| TL Training            | Video       | Assignment   | Extra Resource        |
-| ---------------------- | ----------- | ------------ | --------------------- |
-| Day 2 Training Lecture | [🎥][tltd2] | Case Studies | [Student Guide][tlsg] |
+Create a dictionary containing some of your favorite books or movies and a numerical rating from 1 to 5 for each item?  
 
-[tltd2]: https://youtu.be/d0IoV1jcJoU
-[tlsg]: http://lambdaschool.com/studentguide
+Remove one of the original entries from the dictionary you created in questions 5 and add a new entry.
 
-TL Helpful Links
+Helpful Resources & Links
 
-- [Magazines | First Round Review](https://firstround.com/review/magazines/)
-- [Leadership - Adobe 99U](https://99u.adobe.com/category/leadership)
+- Python:
 
-TL Selected Articles
+  - [📖 Link](Link)
+ 
 
-- [Why We All Need a Mentor, or Two](https://99u.adobe.com/articles/63902/why-we-all-need-a-mentor-or-two)
-- [Good Leaders are Great Storytellers - 6 tips](https://firstround.com/review/good-leaders-are-great-storytellers-our-6-tips-for-telling-stories-that-resonate/)
-- [The Secrets to Designing a Curiosity-Driven Career](https://firstround.com/review/the-secrets-to-designing-a-curiosity-driven-career/)
-- [We Studied 100 Mentor-Mentee Matches — Here’s What Makes Mentorship Work](https://firstround.com/review/we-studied-100-mentor-mentee-matches-heres-what-makes-mentorship-work/)
-- [The Essential Questions That Have Powered This Top Silicon Valley Manager’s Career](https://firstround.com/review/the-essential-questions-that-have-powered-this-top-silicon-valley-managers-career/)
-- [From Checking Your Ego to Making Meetings Less Scary for Introverts: 99U’s 10 Best Ideas for Leaders](https://99u.adobe.com/articles/60545/from-checking-your-ego-to-making-meetings-less-scary-for-introverts-99us-10-best-ideas-for-leaders)
-- [Clean Up Corrosive Interpersonal Dynamics on Your Team with This System](https://firstround.com/review/clean-up-corrosive-interpersonal-dynamics-on-your-team-with-this-system/)
-- [Ten Human Skills for the Future of Work](https://99u.adobe.com/articles/63914/ten-human-skills-for-the-future-of-work)
-- [Why Self-Observation Is the Skill of the Future](https://99u.adobe.com/articles/61579/michael-ventura-self-observation-is-the-skill-of-the-future)
-- [Abraham Lincoln's Brilliant Method for Handling Setbacks](https://www.inc.com/ilan-mochari/lincoln-lesson-setbacks.html)
-- [Reddit and Facebook Veteran On How to Troubleshoot Troublemakers](https://firstround.com/review/reddit-and-facebook-veteran-on-how-to-troubleshoot-troublemakers/)
-- [Unlocking the Power of Stable Teams with Twitter’s SVP of Engineering](https://firstround.com/review/Twitter-Engineering-SVP-Chris-Fry-on-the-Power-of-Stable-Teams/)
-- [7 Important Habits of Leaders Who Know How to Listen](https://www.lollydaskal.com/leadership/7-important-habits-of-leaders-who-know-how-to-listen/)
-- [7 Ways to De-escalate Your Office Tension](https://99u.adobe.com/articles/63747/a-world-class-mediator-shares-7-ways-to-de-escalate-your-office-tension)
-- [9 Lessons for the First-Time Manager](https://99u.adobe.com/articles/62789/9-lessons-for-the-first-time-manager)
-- [Our 6 Must Reads for Cutting Through Conflict and Tough Conversations](https://firstround.com/review/our-6-must-reads-for-cutting-through-conflict-and-tough-conversations/)
-- [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y&t=37s)
-- [The 6 Decision-Making Frameworks That Help Startup Leaders Tackle Tough Calls](https://firstround.com/review/the-6-decision-making-frameworks-that-help-startup-leaders-tackle-tough-calls/)
-- [Diagnosing (And Curing) Your Communication Issues](https://99u.adobe.com/articles/17396/diagnosing-and-curing-your-communication-issues)
-- [cypher13: Friendly Collaboration](https://99u.adobe.com/articles/5636/cypher13-friendly-collaboration)
-- [Taking A Team’s Temperature](https://99u.adobe.com/articles/5713/taking-a-teams-temperature)
-- [How Creatives Handle Tough Transitions and Moments of Uncertainty](https://99u.adobe.com/articles/64745/how-creatives-handle-tough-transitions-and-moments-of-uncertainty)
-- [The 4 Different Types of Workplace Learning Styles](https://www.cornerstoneondemand.com/resources/articles/4-different-types-workplace-learning-styles)
-- [Weighing the Risk: Be Open to the Outcome, Not Attached to It](https://99u.adobe.com/articles/63419/weighing-the-risk-be-open-to-the-outcome-not-attached-to-it)
+#### Day 2 (Tue Dec 3): Introduction to Python II
 
-#### Day 98 (Wed Nov 20): Labs W7D3
+Project [Intro to Python](https://github.com/LambdaSchool/Intro-Python-I)
 
-| TL Training            | Recording     | Extra Resources                |
-| ---------------------- | ------------- | ------------------------------ |
-| Day 3 Training Lecture | [🎥][tltd3]   | [📁][tltd3e]                   |
-| Day 3 Q&A with TLs     | [🎥][tltd3qa] | [Power of Introverts][tltd3e2] |
+| Topic | Lecture    | Code       |
+| ----- | ---------- | ---------- |
+| Intro to Python II  | [🎥](https://www.youtube.com/watch?v=ZAnfHD5fglg&feature=youtu.be) | [⚙️][ui3c] |
 
-[tltd3]: https://youtu.be/gLLBG5GhRdU
-[tltd3e]: TBA
-[tltd3qa]: https://youtu.be/_yiBzu_thxQ
-[tltd3e2]: https://www.youtube.com/watch?v=c0KYU2j0TM4
+Helpful Resources & Links
 
-TL Helpful Links for Students
+- Python: 
 
-- [VS Code Can Do That?](https://vscodecandothat.com/)
-- [VS Code Top-Ten Pro Tips](https://www.youtube.com/watch?v=u21W_tfPVrY)
-- [That Weird JS Playlist](https://www.youtube.com/playlist?list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI)
-- [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
+Objective challenge:  
 
-| Career Development | Recording    | Goal Tracker | SMART Goals | Feedback Guide | Conflict Scenarios |
-| ------------------ | ------------ | ------------ | ----------- | -------------- | ------------------ |
-| Success on the Job | [🎥][cdsotj] | [📁][cdgt]   | [📁][cdsg]  | [📁][cdfg]     | [📁][cdcs]         |
+Implement a basic text adventure game with classes for rooms and the player and a simple parser that reads user input and performs actions
 
-[cdsotj]: https://youtu.be/tdRyUscEC3M
-[cdgt]: https://docs.google.com/spreadsheets/d/14u6JRNBqB2Jk2_LOgIsqaASKN6PTmP_OVWwINmRObCM
-[cdsg]: https://docs.google.com/document/d/1mURVmfv-I1Y1AAi_sTcUYxtMIseTvWJVS_3JN9-PGdY
-[cdfg]: https://docs.google.com/document/d/1vviZFnVPTBWDMcX90VV5UZqPaA8piVAC6c0zHfc-cZQ
-[cdcs]: https://docs.google.com/document/d/1kyZCEY2bMmywU26VR6u4Eilxfa6kZGhcGpWRHzm0IWo
 
-[Brown Bag - DS Derek Mracek, Automated Essay Scoring](https://youtu.be/SjYEfu7yNzM)
+### Day 3 (Wed Dec 4): Intro to Python III
 
-Helpful Links
+Project:  [Intro to Python II](https://github.com/LambdaSchool/Intro-Python-II)
 
-- [awslabs/git-secrets: Prevents committing secrets and credentials](https://github.com/awslabs/git-secrets)
-- [Configuration and Config Vars | Heroku Dev Center](https://devcenter.heroku.com/articles/config-vars)
+| Topic      | Lecture    | Code |
+| ---------- | ---------- | ---- |
+| Intro to Python III | [🎥](https://youtu.be/aprXAHvvydc) | -    |
 
-#### Day 99 (Thu Nov 21): Labs W4D4
 
-| TL Training               | Recording   | Extra Resource |
-| ------------------------- | ----------- | -------------- |
-| Day 4 Training Lecture    | [🎥][tltd4] | [📁][tltd4]    |
+#### Day 4 (Thur Dec 5): Intro to Python IV
 
-[tltd4]: TBA
+Project:  [Intro to Python II](https://github.com/LambdaSchool/Intro-Python-II)
 
-#### Day 100 (Fri Nov 22): Labs W4D5
+| Topic      | Lecture    | Code |
+| ---------- | ---------- | ---- |
+| Intro to Python IV | [🎥](https://youtu.be/lBFjVg56o0s) | -    |
 
-TL Helpful Links
+Objective challenge:  
 
-- [16 Weeks of Leadership at Lambda School | Medium](https://medium.com/@rodriguespatrick/16-weeks-of-leadership-at-lambda-school-fc39c8aa4439)
-- [TL Training Leadership Mgmt Resources](https://www.notion.so/TL-Training-Leadership-Management-Resources-3b6e798c233342618173ebe0b5689e8d)
+What is an example of two classes that would be related through composition?  
+
+What is an example of two classes that would be related through aggregation?
+
+#### Day 5 (Fri Dec 6): Sprint Challenge - Python, OOP
+
+Sprint Challenge: [Sprint-Challenge--]()
+
 
 </details>
+
+## Week 27 - CS24 - WK2 Algorithms
+
+<details><summary>click to open</summary>
+
+#### Day 1 (Mon Dec 9): Iterative Sorting
+
+Project: [Sorting](https://github.com/LambdaSchool/Sorting)
+
+
+
+| Topic    | Lecture       |
+| -------- | ------------- |
+| Iterative Sorting | [🎥](https://youtu.be/RP5WWeq4k5w) |
+
+Objective challenge:
+Try writing a Python function to perform a linear search on a set of data.
+
+Try writing a Python function to perform a binary search on a set of data.
+
+Can you rewrite the above function so that it uses recursion?
+
+Helpful Resources & Links
+
+- Python:
+
+  - [📖 Link](Link)
+ 
+
+#### Day 2 (Tue Dec 3): Recursive Sorting
+
+Project [Sorting](https://github.com/LambdaSchool/Sorting)
+
+| Topic | Lecture    | Code       |
+| ----- | ---------- | ---------- |
+| Intro to Python II  | [🎥](https://www.youtube.com/watch?v=ZAnfHD5fglg&feature=youtu.be) | [⚙️][ui3c] |
+
+Helpful Resources & Links
+
+- Python:  
+
+ [Recursion Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/Recursion/toctree.html)  
+  [Recursion on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion) 
+
+Objective challenge:  
+
+Write a recursive search function that receives as input an array of integers and a target integer value. This function should return True if the target element exists in the array, and False otherwise.  
+
+
+What would be the base case(s) we’d have to consider for implementing this function?  
+
+
+How should our recursive solution converge on our base case(s)?
+
+
+### Day 3 (Wed Dec 4): Intro to Python III
+
+Project:  [Intro to Python II](https://github.com/LambdaSchool/Intro-Python-II)
+
+| Topic      | Lecture    | Code |
+| ---------- | ---------- | ---- |
+| Intro to Python III | [🎥](https://youtu.be/aprXAHvvydc) | -    |
+
+
+#### Day 4 (Thur Dec 5): Intro to Python IV
+
+Project:  [Intro to Python II](https://github.com/LambdaSchool/Intro-Python-II)
+
+| Topic      | Lecture    | Code |
+| ---------- | ---------- | ---- |
+| Intro to Python IV | [🎥](https://youtu.be/lBFjVg56o0s) | -    |
+
+Objective challenge:  
+
+What is an example of two classes that would be related through composition?  
+
+What is an example of two classes that would be related through aggregation?
+
+#### Day 5 (Fri Dec 6): Sprint Challenge - Python, OOP
+
+Sprint Challenge: [Sprint-Challenge--]()
+
+
+</details>
+

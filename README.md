@@ -2814,83 +2814,16 @@ TL Helpful Links
 
 </details>
 
-## Week 22 - Labs 17 - WK1
+## Week 22 - Labs 17 - WK5
 
-<details><summary>click to open</summary>
+## Week 24 - Labs 17 - WK6
 
-#### Day 81 (Mon Oct 28): Labs W5D1
+## Week 25 - Labs 17 - WK7
 
-
-
-#### Day 82 (Tue Oct 29): Labs W5D2
-
-
-
-#### Day 83 (Wed Oct 30): Labs WD3
-
-
-
-#### Day 84 (Thu Oct 31): Labs W1D4
-
-
-
-#### Day 85 (Fri Nov 1): Labs W5D5
-
-
-#### Day 87 (Tue Nov 5): Labs W6D2
-
-
-
-#### Day 88 (Wed Nov 6): Labs W6D3
-
-
-
-#### Day 89 (Thu Nov 7): Labs W6D4
-
-
-
-#### Day 90 (Fri Nov 8): Labs W6D5
-
-
-</details>
-
-## Week 24 - Labs 18 - WK3
-
-<details><summary>click to open</summary>
-
-#### Day 91 (Mon Nov 11): Labs W7D1
-
-
-
-#### Day 92 (Tue Nov 12): Labs W7D2
-
-
-
-#### Day 93 (Wed Nov 13): Labs W7D3
-
-
-
-#### Day 94 (Thu Nov 14): Labs W7D4
-
-Helpful Links
-
-
-
-#### Day 95 (Fri Nov 15): Labs W7D5
-
-
-
-</details>
-
-## Week 25 - Labs 18 - WK8
-
-<details><summary>click to open</summary>
-
-</details>
+## Week 25 - Labs 17 - WK8 Finished and Passed
 
 ## Week 26 - CS24 - WK1 Intro to Python and OOP
 
-<details><summary>click to open</summary>
 
 #### Day 1 (Mon Dec 2): Introduction to Python I
 
@@ -3001,13 +2934,13 @@ Helpful Resources & Links
   - [📖 Link](Link)
  
 
-#### Day 2 (Tue Dec 3): Recursive Sorting
+#### Day 2 (Tue Dec 10): Recursive Sorting
 
 Project [Sorting](https://github.com/LambdaSchool/Sorting)
 
 | Topic | Lecture    | Code       |
 | ----- | ---------- | ---------- |
-| Intro to Python II  | [🎥](https://www.youtube.com/watch?v=ZAnfHD5fglg&feature=youtu.be) | [⚙️][ui3c] |
+| Recursive Sorting  | [🎥](https://youtu.be/VD237spM1nc) | [⚙️][] |
 
 Helpful Resources & Links
 
@@ -3027,30 +2960,34 @@ What would be the base case(s) we’d have to consider for implementing this fun
 How should our recursive solution converge on our base case(s)?
 
 
-### Day 3 (Wed Dec 4): Intro to Python III
+### Day 3 (Wed Dec 11): A First-Pass Solution
 
-Project:  [Intro to Python II](https://github.com/LambdaSchool/Intro-Python-II)
-
-| Topic      | Lecture    | Code |
-| ---------- | ---------- | ---- |
-| Intro to Python III | [🎥](https://youtu.be/aprXAHvvydc) | -    |
-
-
-#### Day 4 (Thur Dec 5): Intro to Python IV
-
-Project:  [Intro to Python II](https://github.com/LambdaSchool/Intro-Python-II)
+Project:  [Algorithms](https://github.com/LambdaSchool/Algorithms)
 
 | Topic      | Lecture    | Code |
 | ---------- | ---------- | ---- |
-| Intro to Python IV | [🎥](https://youtu.be/lBFjVg56o0s) | -    |
+| A First-Pass Solution | [🎥](https://youtu.be/GhRH-HRu-uI) | -    |
 
 Objective challenge:  
 
-What is an example of two classes that would be related through composition?  
+Given an image represented by an NxN matrix, where each pixel in the image is an integer from 0 to 9, write a function rotate_image that receives a matrix as input and rotates the image by 90 degrees in the counter-clockwise direction.
 
-What is an example of two classes that would be related through aggregation?
+#### Day 4 (Thur Dec 12): Writing Better Solutions
 
-#### Day 5 (Fri Dec 6): Sprint Challenge - Python, OOP
+Project:  [Algorithmic Problem Solving](https://github.com/LambdaSchool/Algorithms)
+
+| Topic      | Lecture    | Code |
+| ---------- | ---------- | ---- |
+| Writing Better Solutions | [🎥](https://youtu.be/o4gCGcg1Di0) | -    |
+
+Objective challenge:  
+
+What are some of the tradeoffs exhibited between the recursive Nth Fib solution that utilizes memoization and the iterative Nth Fib solution?  
+
+
+Our memoized recursive solution is quite space-inefficient due to the fact that we’re now caching every single answer up to the input n. Could we improve upon our recursive solution even further such that it’s more space efficient?
+
+#### Day 5 (Fri Dec 13): Sprint Challenge - Algorithms
 
 Sprint Challenge: [Sprint-Challenge--]()
 

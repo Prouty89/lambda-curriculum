@@ -17,6 +17,7 @@
 <details><summary>Click to open</summary>
 
 - [Lambda Syllabus Training Kit](https://learn.lambdaschool.com/)
+- [CS Wiki](https://github.com/LambdaSchool/CS-Wiki/wiki)
 - [Student Progress Dashboard](https://dashboards.lambdaschool.com/)
 - [Web21 GCal Link](https://calendar.google.com/calendar/r?cid=bGFtYmRhc2Nob29sLmNvbV9zOWthNm9wMnU2cG43ZzkwNHNoNjJucTVza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [Lambda Course Info: Precourse, WEB, CS, Labs, Career, Next](https://learn.lambdaschool.com/course/cs-fsw)

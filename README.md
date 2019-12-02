@@ -2838,9 +2838,9 @@ Project: [Intro to Python](https://github.com/LambdaSchool/Intro-Python-I)
 
 
 
-| Topic    | Lecture       |
+| Topic    | Lecture       | Up to date lecture |
 | -------- | ------------- |
-| Intro to Python I | [🎥](https://youtu.be/J0MNSXOART8) |
+| Intro to Python I | [🎥](https://youtu.be/J0MNSXOART8) | [🎥](https://youtu.be/7O8QqYKtmVY) |
 
 Utilities:
 

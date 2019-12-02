@@ -2823,6 +2823,12 @@ TL Helpful Links
 
 ## Week 25 - Labs 17 - WK8 Finished and Passed
 
+# CS Curriculum and Resources
+
+- Python:
+
+  - [📖 Python OS modue](https://docs.python.org/3.7/library/os.html)
+  -
 ## Week 26 - CS24 - WK1 Intro to Python and OOP
 
 

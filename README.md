@@ -2828,7 +2828,10 @@ TL Helpful Links
 - Python:
 
   - [📖 Python OS modue](https://docs.python.org/3.7/library/os.html)
-  -
+  - [Time Complexity](https://wiki.python.org/moin/TimeComplexity)
+  - [Big O Cheatsheet](https://www.bigocheatsheet.com/)
+  - [Python Crash Course] (https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+  - [Python Docs] (https://docs.python.org/3/)
 ## Week 26 - CS24 - WK1 Intro to Python and OOP
 
 
